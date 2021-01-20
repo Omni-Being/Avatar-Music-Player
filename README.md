@@ -2,12 +2,12 @@
 
 
 
-###"AMP (Avatar Music Player)" - A Python Project
+### "AMP (Avatar Music Player)" - A Python Project
 It is a Python Project based on "Music Player".
 
 
 
-###There are two primary folders named as
+### There are two primary folders named as
 -  /Report :-
     This folder contains documentation of the AMP.
 -  /Source Code :-
