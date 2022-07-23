@@ -19,5 +19,4 @@ It is a Python Project based on "Music Player".
 
 ## For any queries regarding this project, Contact me at 
 * Email: deviparsadsamal@yahoo.in 
-* Mobile: +91-9569161860 
 * Discord: Iron_Boy#0976
