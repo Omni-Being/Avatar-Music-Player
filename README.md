@@ -1,7 +1,6 @@
 # Avatar-Music-Player
 
 
-### "AMP (Avatar Music Player)" - A Python Project
 It is a Python Project based on "Music Player".
 
 
